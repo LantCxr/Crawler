@@ -108,6 +108,4 @@ namespace Wesley.Crawler.SimpleCrawler
             });
         }
     }
-
-
 }

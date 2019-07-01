@@ -23,10 +23,10 @@ namespace Wesley.Crawler.SimpleCrawler
             CityCrawler();
 
             //2.抓取酒店
-            //HotelCrawler();
+            HotelCrawler();
 
             //3.并发抓取示例
-            //ConcurrentCrawler();
+            ConcurrentCrawler();
 
             Console.ReadKey();
         }
